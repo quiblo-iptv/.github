@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://quiblo-iptv.github.io/quiblo-wiki/brand/quiblo-icon-256.png" alt="Quiblo" width="128" height="128">
+
 # Quiblo
 
 **A free, open source IPTV player for Android phones and Android TV.**
