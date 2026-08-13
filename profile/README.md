@@ -1,10 +1,9 @@
 <div align="center">
 
-<img src="https://quiblo-iptv.github.io/quiblo-wiki/brand/quiblo-wordmark-1280x320.png" alt="Quiblo" width="1280" height="320">
+<img src="https://quiblo-iptv.github.io/quiblo-wiki/brand/quiblo-wordmark-800x200.png" alt="Quiblo" width="440">
 
-# Quiblo
+### A free, open source IPTV player for Android phones and Android TV.
 
-**A free, open source IPTV player for Android phones and Android TV.**
 Bring your own playlist. No ads, no accounts, no tracking, no backend.
 
 [![Download](https://img.shields.io/github/v/release/quiblo-iptv/quiblo-app?include_prereleases&sort=semver&label=download&color=3DDC84)](https://github.com/quiblo-iptv/quiblo-app/releases/latest)
