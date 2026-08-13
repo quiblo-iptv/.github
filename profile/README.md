@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://quiblo-iptv.github.io/quiblo-wiki/brand/quiblo-wordmark-1280x320.png" alt="Quiblo" width="128" height="128">
+<img src="https://quiblo-iptv.github.io/quiblo-wiki/brand/quiblo-wordmark-1280x320.png" alt="Quiblo" width="1280" height="320">
 
 # Quiblo
 
