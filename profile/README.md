@@ -6,8 +6,8 @@
 
 Bring your own playlist. No ads, no accounts, no tracking, no backend.
 
-[![Download](https://img.shields.io/github/v/release/quiblo-iptv/quiblo-app?include_prereleases&sort=semver&label=download&color=3DDC84)](https://github.com/quiblo-iptv/quiblo-app/releases/latest)
-[![Licence](https://img.shields.io/badge/licence-GPLv3-blue)](https://github.com/quiblo-iptv/quiblo-app/blob/main/LICENSE)
+[![Download](https://img.shields.io/github/v/release/quiblo-iptv/quiblo-app?include_prereleases&sort=semver&label=download&color=FFB648)](https://github.com/quiblo-iptv/quiblo-app/releases/latest)
+[![Licence](https://img.shields.io/badge/licence-GPLv3-0B0C10)](https://github.com/quiblo-iptv/quiblo-app/blob/main/LICENSE)
 [![Sponsor](https://img.shields.io/badge/sponsor-GitHub_Sponsors-EA4AAA?logo=githubsponsors&logoColor=white)](https://github.com/sponsors/quiblo-iptv)
 [![Patreon](https://img.shields.io/badge/support-Patreon-FF424D?logo=patreon&logoColor=white)](https://www.patreon.com/c/Quiblo)
 
